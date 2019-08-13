@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Clarion_FeaturedProduct",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Featured Products",
+    "authors": [
+    {
+        "name": "Clarion Technologies",
+        "email": "magento@clariontechnologies.co.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
