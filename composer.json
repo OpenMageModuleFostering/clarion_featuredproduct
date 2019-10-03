@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Clarion_FeaturedProduct",
+    "name": "openmage-module-fostering\/clarion_featuredproduct",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Featured Products",
     "authors": [
